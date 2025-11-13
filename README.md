@@ -1,4 +1,58 @@
-# React + Vite
+# coding-agent-demo
+
+A modern web application built with the latest versions of Vite, React, and Node.js.
+
+## 🚀 Tech Stack
+
+- **Vite**: 7.2.2 - Next Generation Frontend Tooling
+- **React**: 19.2.0 - A JavaScript library for building user interfaces
+- **Node.js**: v20.19.5 - JavaScript runtime
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js v20.x or higher
+- npm v10.x or higher
+
+### Installation
+
+```bash
+# Install dependencies
+npm install
+```
+
+### Development
+
+```bash
+# Start development server
+npm run dev
+```
+
+The application will be available at `http://localhost:5173/`
+
+### Build
+
+```bash
+# Build for production
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+# Preview the production build locally
+npm run preview
+```
+
+### Lint
+
+```bash
+# Run ESLint
+npm run lint
+```
+
+## 📝 About This Template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
